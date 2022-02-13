@@ -1,6 +1,10 @@
 # SharpSQLPwn
 
+
+DanAustin / thego0n
+Disclaimer:- This project was created for educational purposes and should not be used in environments without legal authorization.
 C# tool to identify and exploit weaknesses with MSSQL instances in Active Directory environments
+
 
 ```
 .\SharpSQLPwn.exe /help
